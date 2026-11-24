@@ -3,7 +3,7 @@
 AI 专业 | 对 AI Agent 方向感兴趣
 
 ### 项目
-- [智能设备管理助手](https://github.com/tokasamana/device-agent) - 基于 LangChain 的 AI Agent 系统
+- [sfarena](https://github.com/tokasamana/sfarena) - browser-based incremental economy game
 
 ### 技能
 Python | FastAPI | LangChain | PyTorch | Git
